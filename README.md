@@ -81,8 +81,8 @@ To use the Sign Language Recognition System, follow these steps:
 
 Here is a demo of the Sign Language Recognition System in action:
 
-<img  alt="Coding" width="45%" src="docs/demo-ss-a.png">
-<!-- <img  alt="Coding" width="45%" src="docs/demo-ss-s.png"> -->
+<img  alt="Coding" width="45%" src="docs/demo-ss-b.png">
+<!-- <img  alt="Coding" width="45%" src="docs/demo-ss-p.png"> -->
 
 
 <br><br>
