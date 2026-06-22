@@ -9,3 +9,4 @@ delete.*
 .env
 
 ss/
+*.docx
